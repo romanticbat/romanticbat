@@ -1,4 +1,4 @@
-# 🍓🌸 Olá, eu sou [Seu Nome] 🌸🍓  
+# 🍓🌸 Olá, eu sou Richard 🌸🍓  
 
 🧃 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
 📚 Atualmente no **2º semestre**  
