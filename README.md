@@ -2,7 +2,7 @@
 
 🧃 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
 📚 Atualmente no **2º semestre**  
-💻 Amante de tecnologia, códigos fofinhos e criatividade ✨  
+💻 Amante de tecnologia, códigos bem organizados e criatividade ✨  
 
 ---
 
