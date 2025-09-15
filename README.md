@@ -21,16 +21,16 @@
 
 ---
 
-## 📊 Estatísticas fofinhas
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical&icon_color=ff79c6&title_color=ff6ec7&bg_color=fff5f7)
+## 📊 Estatísticas
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=romanticbat&show_icons=true&theme=radical&icon_color=ff79c6&title_color=ff6ec7&bg_color=fff5f7)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical&title_color=ff6ec7&bg_color=fff5f7)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=romanticbat&layout=compact&theme=radical&title_color=ff6ec7&bg_color=fff5f7)
 
 ---
 
 ## 🍭 Onde me encontrar
 🌸 [LinkedIn](https://linkedin.com/in/seu-perfil)  
-🍎 Email: **seuemail@email.com**  
+🍎 Email: **richardnunesdev@email.com**  
 
 ---
 
