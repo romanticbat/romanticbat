@@ -34,4 +34,4 @@
 
 ---
 
-✨🐻 Sempre estudando, criando e deixando os códigos mais fofos possíveis! 🧸🍓  
+✨🐻 Sempre estudando, criando e deixando os códigos mais organizados possíveis! 🧸🍓  
