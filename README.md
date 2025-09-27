@@ -1,37 +1,37 @@
-# 🍓🌸 Olá, eu sou Richard 🌸🍓  
+# 🍓 Olá, eu sou Richard  
 
-🧃 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
 📚 Atualmente no **2º semestre**  
-💻 Amante de tecnologia, códigos bem organizados e criatividade ✨  
+💻 Apaixonado por tecnologia, códigos bem organizados e criatividade.  
 
 ---
 
-## 🧸💻 O que estou aprendendo
-🍏 **Linguagens:** Python | Java | JavaScript  
-🍓 **Banco de Dados:** MySQL | PostgreSQL  
-🍰 **Ferramentas:** Git | GitHub | VS Code  
-🍒 **Outros:** HTML | CSS  
+## 📖 O que estou aprendendo
+- **Linguagens:** Python | Java | JavaScript  
+- **Banco de Dados:** MySQL | PostgreSQL  
+- **Ferramentas:** Git | GitHub | VS Code  
+- **Outros:** HTML | CSS  
 
 ---
 
-## 🎀🌟 Meus objetivos
-- 🍬 Aprofundar meus estudos em **desenvolvimento web**  
-- 🍡 Criar projetos criativos e divertidos  
-- 🧸 Contribuir em projetos open-source ✨  
+## 🎯 Meus objetivos
+- Aprofundar os estudos em **desenvolvimento web**  
+- Criar projetos criativos e funcionais  
+- Contribuir em projetos open-source  
 
 ---
 
 ## 📊 Estatísticas
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=romanticbat&show_icons=true&theme=radical&icon_color=ff79c6&title_color=ff6ec7&bg_color=fff5f7)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=romanticbat&show_icons=true&theme=tokyonight&icon_color=79dafa&title_color=70a5fd&bg_color=0d1117)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=romanticbat&layout=compact&theme=radical&title_color=ff6ec7&bg_color=fff5f7)
-
----
-
-## 🍭 Onde me encontrar
-🌸 [LinkedIn](https://linkedin.com/in/seu-perfil)  
-🍎 Email: **richardnunesdev@email.com**  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=romanticbat&layout=compact&theme=tokyonight&title_color=70a5fd&bg_color=0d1117)
 
 ---
 
-✨🐻 Sempre estudando, criando e deixando os códigos mais organizados possíveis! 🧸🍓  
+## 🌐 Onde me encontrar
+- [LinkedIn](https://linkedin.com/in/seu-perfil)  
+- Email: **richardnunesdev@email.com**  
+
+---
+
+✨ Sempre estudando, criando e deixando os códigos o mais organizados possível. 🍓
