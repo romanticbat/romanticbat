@@ -8,7 +8,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=ff69b4&style=flat-square&label=VISITAS)
+![Profile Views](https://komarev.com/ghpvc/?username=romanticbat&color=ff69b4&style=flat-square&label=VISITAS)
 
 </div>
 
@@ -61,12 +61,11 @@
 
 <div align="center">
 
-<a href="https://github.com/SEU_USERNAME">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/romanticbat">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romanticbat&show_icons=true&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/SEU_USERNAME">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/romanticbat">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanticbat&layout=compact&theme=tokyonight&hide_border=true"/>
 </a>
-
 </div>
