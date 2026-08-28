@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o romanticbat 👋
+# Olá, eu sou o Richard Nunes 👋
 
 **Estudante de Análise e Desenvolvimento de Sistemas (ADS)** — Universidade São Judas Tadeu
 
@@ -67,7 +67,5 @@ Explorando novas tecnologias e transformando ideias em código.
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=0A66C2)]({SEU_LINK_LINKEDIN})
-[![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:{SEU_EMAIL})
-[![Portfólio](https://img.shields.io/badge/Portfólio-111111?style=flat-square&logo=googlechrome&logoColor=4285F4)]({SEU_LINK_PORTFOLIO})
+[![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:richardnunesdev@gmail.com)
 
