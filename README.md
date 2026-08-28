@@ -1,33 +1,30 @@
 <div align="center">
 
-# 안녕하세요! 👋
+# Olá, eu sou o romanticbat 👋
 
-### 💻 Desenvolvedor • Criador • Explorador de tecnologia
+**Estudante de Análise e Desenvolvimento de Sistemas (ADS)** — Universidade São Judas Tadeu
 
-> Explorando novas tecnologias, criando projetos e transformando ideias em código. ✦
+Explorando novas tecnologias e transformando ideias em código.
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=romanticbat&color=ff69b4&style=flat-square&label=VISITAS)
+![Profile Views](https://komarev.com/ghpvc/?username=romanticbat&color=blueviolet&style=flat-square&label=VISITAS)
 
 </div>
 
 ---
 
-## 🌸 Sobre mim
+## Sobre mim
 
-- 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **{SEU CURSO}** na **{SUA FACULDADE}**.
-- 💼 Trabalhando com **{SUA STACK}** na **{SUA EMPRESA}**.
-- 🌱 Atualmente aprendendo **{TECNOLOGIAS QUE ESTÁ APRENDENDO}**.
-- 🎮 Apaixonado por tecnologia, games e projetos criativos.
-- 🇰🇷 Aprendendo coreano e explorando a cultura e tecnologia da Coreia.
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** — 2º semestre — **Universidade São Judas Tadeu**
+- 💻 Desenvolvendo projetos pessoais para aplicar e consolidar o que aprendo na faculdade
+- 🌱 Estudando atualmente: **{TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO}**
+- 🎮 Interesse por tecnologia, games e projetos criativos
+- 🇰🇷 Aprendendo coreano e acompanhando a cultura e o cenário de tech da Coreia do Sul
 
 ---
 
-## 🖥️ Minhas Skills
+## Stack e ferramentas
 
-### ⚡ Programação
+**Linguagens**
 
 ![C++](https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus&logoColor=00599C)
 ![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=ED8B00)
@@ -35,18 +32,18 @@
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572B6)
 
-### 🌐 Frameworks
+**Frameworks e bibliotecas**
 
 ![Flutter](https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=54C5F8)
 ![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-111111?style=flat-square&logo=react&logoColor=61DAFB)
 ![Jest](https://img.shields.io/badge/Jest-111111?style=flat-square&logo=jest&logoColor=C21325)
 
-### 🗄️ Banco de Dados
+**Banco de dados**
 
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=4479A1)
 
-### 🔧 Ferramentas
+**Ferramentas**
 
 ![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=FFFFFF)
@@ -57,15 +54,20 @@
 
 ---
 
-## 🌙 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
-<a href="https://github.com/romanticbat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romanticbat&show_icons=true&theme=tokyonight&hide_border=true"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=romanticbat&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanticbat&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<a href="https://github.com/romanticbat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanticbat&layout=compact&theme=tokyonight&hide_border=true"/>
-</a>
 </div>
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=0A66C2)]({SEU_LINK_LINKEDIN})
+[![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:{SEU_EMAIL})
+[![Portfólio](https://img.shields.io/badge/Portfólio-111111?style=flat-square&logo=googlechrome&logoColor=4285F4)]({SEU_LINK_PORTFOLIO})
+
