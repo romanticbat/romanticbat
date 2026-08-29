@@ -54,10 +54,7 @@ Explorando novas tecnologias e transformando ideias em código.
 
 ---
 
-## Estatísticas do GitHub
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
+![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanticbat&show_icons=true&theme=radical)
 ---
 
 ## Contato
