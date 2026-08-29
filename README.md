@@ -56,13 +56,7 @@ Explorando novas tecnologias e transformando ideias em código.
 
 ## Estatísticas do GitHub
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=romanticbat&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanticbat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ---
 
