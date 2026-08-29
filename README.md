@@ -16,7 +16,7 @@ Explorando novas tecnologias e transformando ideias em código.
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** — 2º semestre — **Universidade São Judas Tadeu**
 - 💻 Desenvolvendo projetos pessoais para aplicar e consolidar o que aprendo na faculdade
-- 🌱 Estudando atualmente: **{TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO}**
+- 🌱 Estudando atualmente: **Python, JavaScript, APIs REST, Git/GitHub, e bancos de dados**.
 - 🎮 Interesse por tecnologia, games e projetos criativos
 - 🇰🇷 Aprendendo coreano e acompanhando a cultura e o cenário de tech da Coreia do Sul
 
