@@ -56,7 +56,7 @@ Explorando novas tecnologias e transformando ideias em código.
 
 ## Estatísticas do GitHub
 
-![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanticbat&show_icons=true&theme=radical)
+![Richard's GitHub stats](https://github-stats-extended.vercel.app/api?username=romanticbat&show_icons=true&theme=radical)
 
 ---
 
